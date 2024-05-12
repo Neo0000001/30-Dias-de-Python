@@ -1,13 +1,12 @@
 🌟 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝗧𝗼 𝗣𝘆𝘁𝗵𝗼𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗪𝗶𝘁𝗵 𝗝𝘂𝗽𝘆𝘁𝗲𝗿 𝗡𝗼𝘁𝗲𝗯𝗼𝗼𝗸! 🌟
 
 🔹 Este repositorio contiene una colección de Jupyter Notebooks diseñados 
-para ayudar a los principiantes a comenzar con Python. El material abarca
-conceptos básicos y fundamentos de programación, además de aspectos específicos
-de la utilización de Python con Jupyter Notebook.
+para ayudar a los principiantes a comenzar con el lenguaje de programacion Python. El material abarca
+conceptos básicos y fundamentos de programación en Python, además de aspectos específicos como funciones, funciones de orden superior, modulos, manejo de excepciones, expresiones regulares, manejo de archivos, clases y objetos, entornos virtulales, estadisticas, Pandas, Web Scraping, Django y un monton de ejercicios con sus soluciones.
 
-🎯 𝗧𝗵𝗲𝗺𝗮𝘀 𝗮𝗻𝗱 𝗰𝗼𝗻𝘁𝗲𝗻𝗧:
+🎯 𝗧𝗲𝗺𝗮𝘀 𝗮𝗻𝗱 𝗰𝗼𝗻𝘁𝗲𝗻ido:
 
-Introducción a Python y Jupyter Notebook
+Introducción a Python
 Tipos de datos básicos y variables
 Estructuras de control
 Funciones y módulos
