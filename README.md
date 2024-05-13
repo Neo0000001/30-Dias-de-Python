@@ -61,8 +61,4 @@ Jupyter Notebook: https://jupyter.org/
 Documentación de Python: https://docs.python.org/3/
 Tutorial de Python: https://docs.python.org/3/tutorial/index.html
 
-<<<<<<< HEAD
-=======
-
->>>>>>> b69f9bfc739ef56e2e786030266edcf9f4943a03
 ✨ 𝗗𝗶𝘃𝗶𝗲𝗿𝘁𝗲 𝘆 𝗲𝘅𝗽𝗹𝗼𝗿𝗮 𝗲𝗹 𝗺𝘂𝗻𝗱𝗼 𝗱𝗲 𝗣𝘆𝘁𝗵𝗼𝗻 𝗰𝗼𝗻 𝗝𝘂𝗽𝘆𝘁𝗲𝗿 𝗡𝗼𝘁𝗲𝗯𝗼𝗼𝗸!
