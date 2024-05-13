@@ -1,6 +1,5 @@
 🌟 __Bienvenido al aprendizaje de 𝗣𝘆𝘁𝗵𝗼𝗻 con 𝗝𝘂𝗽𝘆𝘁𝗲𝗿 𝗡𝗼𝘁𝗲𝗯𝗼𝗼𝗸!__ 🌟
 
-<<<<<<< HEAD
 Este repositorio contiene una colección de Jupyter Notebooks diseñados para ayudar a los principiantes a comenzar con el lenguaje de programacion Python. El material abarca conceptos básicos y fundamentos de programación en Python, además de aspectos específicos como funciones, funciones de orden superior, modulos, manejo de excepciones, expresiones regulares, manejo de archivos, clases y objetos, entornos virtulales, estadisticas, Pandas, Web Scraping, Django y un monton de ejercicios con sus soluciones.
 
 🎯 __𝗧𝗲𝗺𝗮𝘀 y 𝗰𝗼𝗻𝘁𝗲𝗻enido:__
@@ -37,8 +36,7 @@ Este repositorio contiene una colección de Jupyter Notebooks diseñados para ay
 * PEP8
 * Ejercicios
 
-=======
-🔹 Este repositorio contiene una colección de Jupyter Notebooks diseñados 
+Este repositorio contiene una colección de Jupyter Notebooks diseñados 
 para ayudar a los principiantes a comenzar con el lenguaje de programacion Python. El material abarca
 conceptos básicos y fundamentos de programación en Python, además de aspectos específicos como funciones, funciones de orden superior, modulos, manejo de excepciones, expresiones regulares, manejo de archivos, clases y objetos, entornos virtulales, estadisticas, Pandas, Web Scraping, Django y un monton de ejercicios con sus soluciones.
 
