@@ -50,7 +50,6 @@ Estructuras de control
 Funciones y módulos
 Objetos y clases
 Manipulación de archivos y excepciones
->>>>>>> b69f9bfc739ef56e2e786030266edcf9f4943a03
 
 🚀 𝗧𝗶𝗽𝘀 𝗽𝗮𝗿𝗮 𝗮𝗽𝗿𝗲𝗻𝗱𝗲𝗿 𝗣𝘆𝘁𝗵𝗼𝗻 𝗲𝗻 𝗝𝘂𝗽𝘆𝘁𝗲𝗿 𝗡𝗼𝘁𝗲𝗯𝗼𝗼𝗸:
 
