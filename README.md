@@ -11,7 +11,7 @@
 
     <h2>🎯 Temas y contenido:</h2>
     
-    <ull>
+    <ul>
         <li> Introducción a Python</li>
         <li> Variables</li>
         <li>Operadores</li> 
