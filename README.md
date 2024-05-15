@@ -11,7 +11,7 @@
 
     <h2>🎯 Temas y contenido:</h2>
     
-    <ol>
+    <ull>
         <li> Introducción a Python</li>
         <li> Variables</li>
         <li>Operadores</li> 
@@ -43,7 +43,7 @@
         <li>Django</li> 
         <li>PEP8</li> 
         <li>Ejercicios de Python</li>
-    </ol>
+    </ul>
 
 
 <h2>🚀 Tips para aprender Python en Jupiter Notebook:</h2>
@@ -54,11 +54,11 @@ Aprovecha el formato de celdas para agregar explicaciones y comentarios a tu có
 
 <h2>📚 Recuros:</h2>
 
-<ol>
+<ul>
     <li>Jupyter Notebook: https://jupyter.org/</li>
     <li>Documentación de Python: https://docs.python.org/3/</li>
     <li>Tutorial de Python: https://docs.python.org/3/tutorial/index.html</li>
-</ol>
+</ul>
 
 
 <h2>✨ Diviertete y explora el mundo de Python con Jupiter Notebook!!</h2>
