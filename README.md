@@ -1,64 +1,75 @@
-🌟 __Bienvenido al aprendizaje de 𝗣𝘆𝘁𝗵𝗼𝗻 con 𝗝𝘂𝗽𝘆𝘁𝗲𝗿 𝗡𝗼𝘁𝗲𝗯𝗼𝗼𝗸!__ 🌟
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>30 dias de Python</title>
+</head>
+<body>
+    <h1>🌟 Bienvenido al aprendizaje de Python con Jupiter Notebook! 🌟</h1>
 
-Este repositorio contiene una colección de Jupyter Notebooks diseñados para ayudar a los principiantes a comenzar con el lenguaje de programacion Python. El material abarca conceptos básicos y fundamentos de programación en Python, además de aspectos específicos como funciones, funciones de orden superior, modulos, manejo de excepciones, expresiones regulares, manejo de archivos, clases y objetos, entornos virtulales, estadisticas, Pandas, Web Scraping, Django y un monton de ejercicios con sus soluciones.
+    <p>
+    Este repositorio contiene una colección de Jupyter Notebooks diseñados para ayudar a los principiantes a comenzar con el lenguaje de programacion Python.
+    El material abarca conceptos básicos y fundamentos de programación en Python, además de aspectos específicos como funciones, funciones de orden superior,
+    modulos, manejo de excepciones, expresiones regulares, manejo de archivos, clases y objetos, entornos virtulales, estadisticas, Pandas, Web Scraping,
+    Django y un monton de ejercicios con sus soluciones.
 
-🎯 __𝗧𝗲𝗺𝗮𝘀 y 𝗰𝗼𝗻𝘁𝗲𝗻enido:__
+    <h2>🎯 Temas y contenido:</h2>
+        <ol>
+            <li> Introducción a Python</li>
+            <li> Variables</li>
+            <li>Operadores</li> 
+            <li>Variables locales y globales</li> 
+            <li>Strings</li> 
+            <li>Listas</li>
+            <li>Tuplas</li> 
+            <li>Sets (Cojuntos)</li> 
+            <li>Diccionarios</li> 
+            <li>Condicionales</li>
+            <li>Bucles</li> 
+            <li>Funciones</li> 
+            <li>Modulos</li> 
+            <li> Comprension de listas</li>
+            <li>Args y Kwargs</li> 
+            <li>Funciones de orden superior</li> 
+            <li>Manejo de excepciones</li>
+            <li>Expresiones regulares</li> 
+            <li>Fecha y hora</li>
+            <li>Manejo de Archivos</li> 
+            <li>Clases y Objetos</li> 
+            <li>Tipos de error Python</li> 
+            <li>Pip</li> 
+            <li>Entorno virtual</li> 
+            <li>Estadisticas</li> 
+            <li>Pandas</li>
+            <li>Web Scraping</li> 
+            <li>Selenium</li> 
+            <li>Django</li> 
+            <li>PEP8</li> 
+            <li>Ejercicios de Python</li>
+        </ol>
 
-* Introducción a Python
-* Variables
-* Operadores
-* Variable locales y globales
-* Strings
-* Listas
-* Tuplas
-* Sets (Conjuntos)
-* Diccionarios
-* Condicionales
-* Bucles
-* Funciones
-* Modulos
-* Compresion de listas
-* Args y Kwargs
-* Funciones de orden superior
-* Manejo de excepciones
-* Expresiones regulares
-* Fecha y hora
-* Manejo de archivos
-* Clases y Objetos
-* Tipos de error en Python
-* Pip
-* Entorno virtual
-* Estadisticas
-* Pandas
-* Web Scraping
-* Selenium
-* Django
-* PEP8
-* Ejercicios
 
-Este repositorio contiene una colección de Jupyter Notebooks diseñados 
-para ayudar a los principiantes a comenzar con el lenguaje de programacion Python. El material abarca
-conceptos básicos y fundamentos de programación en Python, además de aspectos específicos como funciones, funciones de orden superior, modulos, manejo de excepciones, expresiones regulares, manejo de archivos, clases y objetos, entornos virtulales, estadisticas, Pandas, Web Scraping, Django y un monton de ejercicios con sus soluciones.
-
-🎯 𝗧𝗲𝗺𝗮𝘀 𝗮𝗻𝗱 𝗰𝗼𝗻𝘁𝗲𝗻ido:
-
-Introducción a Python
-Tipos de datos básicos y variables
-Estructuras de control
-Funciones y módulos
-Objetos y clases
-Manipulación de archivos y excepciones
-
-🚀 𝗧𝗶𝗽𝘀 𝗽𝗮𝗿𝗮 𝗮𝗽𝗿𝗲𝗻𝗱𝗲𝗿 𝗣𝘆𝘁𝗵𝗼𝗻 𝗲𝗻 𝗝𝘂𝗽𝘆𝘁𝗲𝗿 𝗡𝗼𝘁𝗲𝗯𝗼𝗼𝗸:
+<h2>🚀 Tips para aprender Python en Jupiter Notebook:</h2>
 
 Utiliza los bloques de código para ejecutar comandos y ver los resultados.
 Experimenta con diferentes bibliotecas y funciones.
 Aprovecha el formato de celdas para agregar explicaciones y comentarios a tu código.
 
-__📚 𝗥𝗲cursos:__
+<h2>📚 Recuros:</h2>
 
-Jupyter Notebook: https://jupyter.org/
-Documentación de Python: https://docs.python.org/3/
-Tutorial de Python: https://docs.python.org/3/tutorial/index.html
+<ol>
+    <li>Jupyter Notebook: https://jupyter.org/</li>
+    <li>Documentación de Python: https://docs.python.org/3/</li>
+    <li>Tutorial de Python: https://docs.python.org/3/tutorial/index.html</li>
+</ol>
 
-✨ 𝗗𝗶𝘃𝗶𝗲𝗿𝘁𝗲 𝘆 𝗲𝘅𝗽𝗹𝗼𝗿𝗮 𝗲𝗹 𝗺𝘂𝗻𝗱𝗼 𝗱𝗲 𝗣𝘆𝘁𝗵𝗼𝗻 𝗰𝗼𝗻 𝗝𝘂𝗽𝘆𝘁𝗲𝗿 𝗡𝗼𝘁𝗲𝗯𝗼𝗼𝗸!
+
+<h2>✨ Diviertete y explora el mundo de Python con Jupiter Notebook!!</h2>
+
+    
+</body>
+</html>
+
+
+
