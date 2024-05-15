@@ -1,3 +1,4 @@
+<html>
 <body>
     <h1>🌟 Bienvenido al aprendizaje de Python con Jupiter Notebook! 🌟</h1>
 
@@ -6,6 +7,7 @@
     El material abarca conceptos básicos y fundamentos de programación en Python, además de aspectos específicos como funciones, funciones de orden superior,
     modulos, manejo de excepciones, expresiones regulares, manejo de archivos, clases y objetos, entornos virtulales, estadisticas, Pandas, Web Scraping,
     Django y un monton de ejercicios con sus soluciones.
+    </p>
 
     <h2>🎯 Temas y contenido:</h2>
         <ol>
