@@ -10,6 +10,7 @@
     
 
     <h2>🎯 Temas y contenido:</h2>
+    
         <ol>
             <li> Introducción a Python</li>
             <li> Variables</li>
