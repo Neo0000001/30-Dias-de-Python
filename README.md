@@ -9,41 +9,41 @@
     Django y un monton de ejercicios con sus soluciones.
     
 
-    <h2>🎯 Temas y contenido:</h2>
-    
-    <ul>
-        <li> Introducción a Python</li>
-        <li> Variables</li>
-        <li>Operadores</li> 
-        <li>Variables locales y globales</li> 
-        <li>Strings</li> 
-        <li>Listas</li>
-        <li>Tuplas</li> 
-        <li>Sets (Cojuntos)</li> 
-        <li>Diccionarios</li> 
-        <li>Condicionales</li>
-        <li>Bucles</li> 
-        <li>Funciones</li> 
-        <li>Modulos</li> 
-        <li> Comprension de listas</li>
-        <li>Args y Kwargs</li> 
-        <li>Funciones de orden superior</li> 
-        <li>Manejo de excepciones</li>
-        <li>Expresiones regulares</li> 
-        <li>Fecha y hora</li>
-        <li>Manejo de Archivos</li> 
-        <li>Clases y Objetos</li> 
-        <li>Tipos de error Python</li> 
-        <li>Pip</li> 
-        <li>Entorno virtual</li> 
-        <li>Estadisticas</li> 
-        <li>Pandas</li>
-        <li>Web Scraping</li> 
-        <li>Selenium</li> 
-        <li>Django</li> 
-        <li>PEP8</li> 
-        <li>Ejercicios de Python</li>
-    </ul>
+<h2>🎯 Temas y contenido:</h2>
+
+<ul>
+    <li> Introducción a Python</li>
+    <li> Variables</li>
+    <li>Operadores</li> 
+    <li>Variables locales y globales</li> 
+    <li>Strings</li> 
+    <li>Listas</li>
+    <li>Tuplas</li> 
+    <li>Sets (Cojuntos)</li> 
+    <li>Diccionarios</li> 
+    <li>Condicionales</li>
+    <li>Bucles</li> 
+    <li>Funciones</li> 
+    <li>Modulos</li> 
+    <li> Comprension de listas</li>
+    <li>Args y Kwargs</li> 
+    <li>Funciones de orden superior</li> 
+    <li>Manejo de excepciones</li>
+    <li>Expresiones regulares</li> 
+    <li>Fecha y hora</li>
+    <li>Manejo de Archivos</li> 
+    <li>Clases y Objetos</li> 
+    <li>Tipos de error Python</li> 
+    <li>Pip</li> 
+    <li>Entorno virtual</li> 
+    <li>Estadisticas</li> 
+    <li>Pandas</li>
+    <li>Web Scraping</li> 
+    <li>Selenium</li> 
+    <li>Django</li> 
+    <li>PEP8</li> 
+    <li>Ejercicios de Python</li>
+</ul>
 
 
 <h2>🚀 Tips para aprender Python en Jupiter Notebook:</h2>
